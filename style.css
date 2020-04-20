@@ -1,0 +1,88 @@
+form{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-bottom: 40px; 
+    border:1px 5px solid rgb(5, 5, 32) !important;
+    background-color: #6716e0;;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+}
+
+
+#firstName{
+    margin-left: 80px !important;
+    margin-bottom: 18px !important;
+}
+#lastName{
+    margin-left: 83px !important;
+    margin-bottom: 18px !important;
+}
+#dob{
+    margin-left: 58px !important;
+    margin-bottom: 18px !important;
+}
+#e-id{
+    margin-left: 102px !important;
+    margin-bottom: 18px !important;
+}
+#mob{
+    margin-left: 39px !important;
+    margin-bottom: 18px !important;
+}
+#male{
+    margin-left: 110px !important;
+}
+#addres{
+    height: 60px !important;
+    width: 280px !important;
+    margin-left: 100px !important;
+    margin-bottom: 18px !important;
+    margin-top: 20px !important;
+}
+#city{
+    margin-left: 136px !important;
+    margin-bottom: 18px !important;
+}
+#pinC{
+    margin-left: 100px !important;
+    margin-bottom: 18px !important;
+}
+#state{
+    margin-left: 126px !important;
+    margin-bottom: 18px !important;
+}
+#country{
+    margin-left: 97px !important;
+    margin-bottom: 18px !important;
+}
+#hobb{
+    margin-left: 101px !important;
+    margin-bottom: 18px !important;
+}
+#other{
+    margin-left: 173px !important;
+    margin-bottom: 20px !important;
+}
+#hobbi{
+    margin-bottom: 20px !important;
+}
+#qualif{
+    margin-top: 20px;
+}
+table{
+    margin-left: 176px;
+    margin-top: -22px;
+}
+#bca{
+    margin-left: 64px !important;
+    margin-bottom: 18px !important;
+}
+#btn1 , #btn2{
+    color: black;
+    border-radius: 4px;
+    font-weight: 600;
+}
